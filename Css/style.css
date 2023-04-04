@@ -9,6 +9,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
+  color: hsl(229, 6%, 66%);
 }
 
 /* The designs were created to the following widths:
@@ -24,5 +25,33 @@ body {
 - Cyan: hsl(180, 62%, 55%)
 - Orange: hsl(34, 97%, 64%)
 - Blue: hsl(212, 86%, 64%) */
+
+/* Header Styles */
+.main-header {
+  padding-top: 90px;
+  padding-bottom: 78px;
+  width: 100%;
+  min-width: 293px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title1 {
+  font-size: 25px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
+
+.title2 {
+  font-size: 25px;
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.titles__description {
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 8px 16px;
+}
 
 
