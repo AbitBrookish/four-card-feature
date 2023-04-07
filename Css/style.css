@@ -90,6 +90,8 @@ body {
 
 .content__title {
   margin-bottom: 12px;
+  color: hsl(234, 12%, 34%);
+  font-size: 22px;
 }
 
 .content__description {
