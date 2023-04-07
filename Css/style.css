@@ -164,3 +164,8 @@ body {
   border-top: 4px solid hsl(212, 86%, 64%);
 }
 
+/* footer */
+footer {
+  border-top: 2px solid hsl(229, 6%, 66%);
+  padding: 8px;
+}
