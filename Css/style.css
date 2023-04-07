@@ -80,7 +80,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-top: 4px solid black;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
   padding: 32px;
@@ -100,5 +99,22 @@ body {
   display: flex;
   justify-content: end;
   align-items: center;
+}
+
+/* box border colors */
+.box1 {
+  border-top: 4px solid hsl(180, 62%, 55%);
+}
+
+.box2 {
+  border-top: 4px solid hsl(0, 78%, 62%);
+}
+
+.box3 {
+  border-top: 4px solid hsl(34, 97%, 64%);
+}
+
+.box4 {
+  border-top: 4px solid hsl(212, 86%, 64%);
 }
 
